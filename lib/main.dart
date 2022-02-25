@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     // ignore: prefer_const_constructors
     return MaterialApp(
       title: 'Bemtevi',
-      home: const App(),
+      home: App(),
       debugShowCheckedModeBanner: false,
     );
   }
